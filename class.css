@@ -1,0 +1,28 @@
+*{
+    padding: ;
+    
+    box-sizing: border-box;
+    text-align: center;
+    background-color: skyblue;
+}
+table,th,td {
+    border: 2px solid black;
+    border-collapse: collapse;
+    padding: 5px;
+    
+}
+.table {
+
+    width: 50%;
+}
+.table1 {
+
+}
+span {
+    font-size: 14px;
+}
+pre {
+    font-size: 14px;
+    
+    
+}
